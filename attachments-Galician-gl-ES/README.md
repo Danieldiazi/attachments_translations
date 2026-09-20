@@ -21,5 +21,3 @@ Paquete de idioma galego para Attachments 4.2.4, preparado para Joomla 4, 5 e 6.
 ## Revisión
 
 As claves INI, os marcadores (`%s`, `%d`), as etiquetas (`{attachments}`, `{attachments id=xxx}`), os marcadores da axuda e o HTML conserváronse sen traducir.
-
-O servidor de actualizacións e os hashes do paquete engadiranse cando exista un ZIP de versión publicado.
